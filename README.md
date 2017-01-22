@@ -8,7 +8,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2017
 
-+ Projec title: Inauguration Details
++ Projec title: Inauguration Details for US Presidents
 + This project is conducted by Darren Chen
 
 + Project summary: [a short summary] Just testing
