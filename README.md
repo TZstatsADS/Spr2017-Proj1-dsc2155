@@ -8,8 +8,8 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2017
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Inauguration Details for US Presidents
++ This project is conducted by Darren Chen
 
 + Project summary: [a short summary] Just testing
 
